@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/frankgs/thierry-cdads/_apis/build/status/ThierryRietveld.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/frankgs/thierry-cdads/_build/latest?definitionId=3&branchName=build-pipeline)
 
 # Contributing
 
